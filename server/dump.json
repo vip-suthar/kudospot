@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "username": "Kenna"
+    },
+    {
+      "username": "Margarete"
+    },
+    {
+      "username": "Felicia"
+    },
+    {
+      "username": "Diana"
+    },
+    {
+      "username": "Effie"
+    },
+    {
+      "username": "Kaleigh"
+    },
+    {
+      "username": "Meghan"
+    },
+    {
+      "username": "Preston"
+    },
+    {
+      "username": "Kyler"
+    },
+    {
+      "username": "Clotilde"
+    }
+  ],
+  "badges": [
+    {
+      "title": "Master Blastor",
+      "img_src": "https://loremflickr.com/640/480/transport"
+    },
+    {
+      "title": "Helping hand",
+      "img_src": "https://loremflickr.com/640/480/nature"
+    },
+    {
+      "title": "Heavy Driver",
+      "img_src": "https://loremflickr.com/640/480/people"
+    },
+    {
+      "title": "Hacker",
+      "img_src": "https://loremflickr.com/640/480/business"
+    },
+    {
+      "title": "Chigma Male",
+      "img_src": "https://loremflickr.com/640/480/people"
+    },
+    {
+      "title": "Dhakad",
+      "img_src": "https://loremflickr.com/640/480/city"
+    }
+  ]
+}
